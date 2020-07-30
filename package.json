@@ -1,0 +1,10 @@
+{
+  "name": "iamdonor",
+  "version": "1.0.0",
+  "repository": "https://github.com/Timikcool/iamdonor.git",
+  "private": true,
+  "workspaces": ["frontend", "backend"],
+  "nohoist": [
+    "**/jest"
+  ]
+}
